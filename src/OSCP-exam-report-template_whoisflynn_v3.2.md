@@ -7,7 +7,7 @@ keywords: [Markdown, Example]
 subtitle: "OSCP Exam Report"
 lang: "en"
 titlepage: true
-titlepage-color: "1E90FF"
+titlepage-color: "FFEFD5"
 titlepage-text-color: "FFFAFA"
 titlepage-rule-color: "FFFAFA"
 titlepage-rule-height: 2
