@@ -77,7 +77,7 @@ Note: I you run the generation several times, you may want to check the options 
 Generate the report PDF from the markdown template:
 
 ```bash
-pandoc src/OSCP-exam-report-template_whoisflynn_v3.2.md \
+pandoc src/OSCP-exam-report-template_OS_v2.md \
 -o output/OSCP-OS-XXXXX-Exam-Report.pdf \
 --from markdown+yaml_metadata_block+raw_html \
 --template eisvogel \
