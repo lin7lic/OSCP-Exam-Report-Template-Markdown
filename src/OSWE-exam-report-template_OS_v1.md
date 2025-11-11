@@ -14,6 +14,8 @@ titlepage-rule-height: 2
 book: true
 classoption: oneside
 code-block-font-size: \scriptsize
+header-includes:
+  - \fvset{breaksymbol={}, breakanywheresymbolpre={}, breakanywhere, breaknonspaceingroup}
 ---
 # Intro
 
