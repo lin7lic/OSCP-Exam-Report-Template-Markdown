@@ -53,6 +53,9 @@ Provide the method and code used to find the vulnerability X.
 ## PoC Code
 
 Provide the final proof of concept code used to gain access to the server.
+```shell
+Code Here
+```
 
 ## Screenshots
 
